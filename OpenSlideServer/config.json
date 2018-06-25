@@ -1,0 +1,7 @@
+{
+    "location": "C:\\Users\\Public\\OpenSlide\\",
+    "prefixes": [
+        "http://localhost:8081/", 
+        "http://127.0.0.1:8081/"
+    ]
+}
